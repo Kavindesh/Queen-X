@@ -15,10 +15,10 @@ global.doc5 = 'application/pdf'
 global.doc6 = 'application/vnd.android.package-archive'
 
 //owmner v card
-global.owner = ['94719225807'] //ur owner number
-global.ownername = "ＱＵＥＥＮ-Ｘ ＢＯＴ" //ur owner name
-global.ytname = "CYBER JOHN" //ur yt chanel name
-global.socialm = "ＱＵＥＥＮ-Ｘ ＢＯＴ" //ur github or insta name
+global.owner = ['94715919278'] //ur owner number
+global.ownername = "QUEE NETHU BOT" //ur owner name
+global.ytname = "No YT" //ur yt chanel name
+global.socialm = "QUEEN NETHU BOT" //ur github or insta name
 global.location = "India, Mizoram, Aizawl" //ur location
 
 //bot bomdy 
@@ -27,7 +27,7 @@ global.session = "YXF5RWYwZ0I=" //session Id ඔයාලගෙ ස්කැන�
 global.ownernomer = "94719225807" //ur number
 global.premium = ['94719225807'] //ur premium number
 global.botname = 'QUEEN -X' //ur bot name
-global.linkz = "https://chat.whatsapp.com/Fd5MPEBn7NQ1aviL4V5fa7" //your theme url which will be displayed on whatsapp
+global.linkz = "Wa.me/+94715919278" //your theme url which will be displayed on whatsapp
 global.websitex = "https://chat.whatsapp.com/Fd5MPEBn7NQ1aviL4V5fa7" //ur website to be displayed
 global.botscript = 'https://github.com/yureshkav/Queen-X' //script link
 global.themeemoji = "🛸" //ur theme emoji
